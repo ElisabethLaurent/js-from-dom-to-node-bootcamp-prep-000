@@ -2,8 +2,4 @@
 console.log("Hello, World!")
 index.js
 console.log("Hello, World!")
-<cntl + S> 
-
-
-
-
+<cntl + S>
